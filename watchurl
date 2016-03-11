@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2016-02-29 22:27:19.173688
-# {'>=0', '~>0.10', '>=0.9.12', 'development', '~>0.9'}
-watchurl=https://rubygems.org/gems/pry/versions/(0\.[0-9]{1,2}(\.[0-9]{1,2})?)
+# 2016-03-11 21:44:42.950176
+# {'~>0.9', '~>0.10', '>=0', 'development', '>=0.9.12'}
+watchurl=https://rubygems.org/gems/pry/versions/(0\.[0-9]{1,2}(?:\.[0-9]{1,2})*)
